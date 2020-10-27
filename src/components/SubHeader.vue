@@ -50,6 +50,7 @@
     position: sticky;
     display: flex;
     justify-content: center;
+    align-content: space-around;
 }
 .subheader-wrapper {
     margin: 0px;
